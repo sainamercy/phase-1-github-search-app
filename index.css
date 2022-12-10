@@ -11,3 +11,10 @@
 ul {
   list-style: none;
 }
+li{
+  margin-bottom: 5px;
+}
+#user-list li{
+  border: 1px solid blue;
+  background-color: rgb(218, 211, 211);
+}
